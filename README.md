@@ -1,5 +1,12 @@
 # BI-360
 Meet Business Insights 360, a Power BI project that gives AtliQ valuable insights in Finance, Sales, Marketing, Supply Chain, and an exclusive Executive View
+## Company’s back ground
+AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe.
+It is a company which sells, computer and computer accessories through three mediums/channel
+Retailers
+Direct
+Distributors
+Recently the company has faced a unforeseen loss by opening store in America based on the surveys, intuition and some excel analysis and also the company’s competitors has handful of analytics team to perform analysis and make data driven decision. So, the AltiQ hardware has no other option other than building their analytics team for data driven insights and decisions in the future to survive better in the industry.
 
 ## Objective:
 Implementing data-driven decision-making across various business aspects and aim to increase sales by 10%.
