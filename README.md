@@ -26,6 +26,12 @@ Implementing data-driven decision-making across various business aspects and aim
 
 ➡ Project Management tools.
 
+## Live Dashboard:
+Checkout my live dashboard https://app.powerbi.com/view?r=eyJrIjoiZmQ3YjU5OTYtYjA5MS00NjMzLTg5YWMtMDliMDk2OTdmOTEyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
+Contact me if any queries Linkedin https://www.linkedin.com/in/manishasenapati/
+
+
 ## Components:
 1. Finance View: Offer valuable insights into profit margins, expenses, and prevailing financial trends.
 
@@ -67,7 +73,3 @@ Implementing data-driven decision-making across various business aspects and aim
 
 14. FY: Specific 12-month period used for financial reporting.
 
-## Live Dashboard:
-Checkout my live dashboard https://app.powerbi.com/view?r=eyJrIjoiZmQ3YjU5OTYtYjA5MS00NjMzLTg5YWMtMDliMDk2OTdmOTEyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
-
-Contact me if any queries Linkedin https://www.linkedin.com/in/manishasenapati/
